@@ -1,0 +1,2 @@
+ENV_PREFIX="OFFER_"
+SERVICE_NAME="offers"
